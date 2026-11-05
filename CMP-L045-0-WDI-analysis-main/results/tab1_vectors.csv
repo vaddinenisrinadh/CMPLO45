@@ -1,0 +1,14 @@
+,Value
+n (countries),218.0
+Dot product a.b,1188921.5751242188
+||a|| (LE 2019),1083.9769552867858
+||b|| (LE 2024),1097.2222466889552
+"Cosine(a, b) raw",0.9996283263559079
+Angle (degrees),1.5621832084005973
+Projection coefficient c,1.011842948089212
+Mean change d (years),0.9902138524422872
+||d|| = ||b - a||,32.5506985106421
+RMS change ||d||/sqrt(n),2.2046114862230892
+"Cosine(a, b) centred",0.9722750319018297
+"n (log GDP, LE 2024)",201.0
+"Cosine(logGDP, LE) centred",0.8621538021229632
